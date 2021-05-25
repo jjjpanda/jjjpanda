@@ -31,13 +31,12 @@ let j = {
 Oh I almost forgot: 
 
 ```javascript
-j.languages = [...arrayOfProgrammingLanguages].sort(compareByProficiency)
-                                .splice(0, 6)
+j.languages = [...arrayOfProgrammingLanguages].sort(compareByProficiency).splice(0, 6)
 
 console.log(j.languages)
 ```
 
-```
-> ["JavaScript", "R", "Python", "C#", "Java", "C++"]
+```bash
+> ["JavaScript", "Python", "R", "C#", "Java", "C++"]
 >
 ```
