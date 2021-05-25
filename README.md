@@ -4,6 +4,12 @@
 
 ```javascript
 let j = {
+    interests: [
+        "software", 
+        "investing", //Sometimes 📈 and sometimes 📉
+        "poker", //haha investing and poker? yes. 
+        "music production" 
+    ],
     degrees: [
         {
             school: "Stevens Institute of Technology",
@@ -18,17 +24,11 @@ let j = {
             minor: "Computer Science"
         }
     ],
-    interests: [
-        "software", 
-        "investing", //Sometimes 📈 and sometimes 📉
-        "poker", //haha investing and poker? yes. 
-        "music production" 
-    ],
     website: "https://www.jthepanda.com/", //click the galaxy
 }
 ```
 
-Oh I almost forgot: 
+Oh, I almost forgot: 
 
 ```javascript
 j.languages = [...arrayOfProgrammingLanguages].sort(compareByProficiency).splice(0, 6)
