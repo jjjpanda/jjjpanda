@@ -2,6 +2,8 @@
 
 [![galaxy](https://www.jthepanda.com/img/background/galaxy.png)](https://www.jthepanda.com)
 
+Nah but seriously:
+
 ```javascript
 let j = {
     interests: [
@@ -24,7 +26,7 @@ let j = {
             minor: "Computer Science"
         }
     ],
-    website: "https://www.jthepanda.com/", //click the galaxy
+    website: "https://www.jthepanda.com/" //click the galaxy
 }
 ```
 
