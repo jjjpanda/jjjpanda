@@ -1,5 +1,3 @@
-## ✨🌌 Live for the aesthetics; die for the clout. 🌌✨
-
 [![galaxy](https://www.jthepanda.com/img/background/galaxy.png)](https://www.jthepanda.com)
 
 Nah but seriously:
@@ -42,3 +40,4 @@ console.log(j.languages)
 > ["JavaScript", "Python", "R", "C#", "Java", "C++"]
 >
 ```
+### ✨🌌 Live for the aesthetics; die for the clout. 🌌✨
